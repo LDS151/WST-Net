@@ -3,7 +3,7 @@
 ## Overview
 
 This is a unified framework for medical image analysis that leverages both multi-modal and multi-task learning.
-![Model Architecture](fig\main.png)
+![Model Architecture](fig/main.png)
 
 
 ## Key Features
