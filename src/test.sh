@@ -1,0 +1,1 @@
+python predict.py --images ../../data/kaggle_3m/case_6/slice_004.tif --checkpoint ../models/best_fold1.pt  --metadata-xlsx ../information.xlsx --patient-id case_6
